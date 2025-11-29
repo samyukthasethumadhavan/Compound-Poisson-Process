@@ -3,6 +3,7 @@
 ## Overview
 This project implements a **Compound Poisson Process (CPP)**, a stochastic process widely used in **insurance, finance, and risk modeling**.  
 A Compound Poisson Process models the **sum of random events occurring in a fixed time period**, where the number of events follows a Poisson distribution, and each event has a random size.
+<img width="875" height="541" alt="image" src="https://github.com/user-attachments/assets/ad592a84-541c-4ae3-9172-262e6e0baa7a" />
 
 ---
 
